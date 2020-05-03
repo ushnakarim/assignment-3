@@ -1,0 +1,316 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: royalblue;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.icons img{
+    flex: 1;
+    justify-content: space-around;
+    height: 22px;
+    width: 22px;
+    margin: 5px;
+}
+.text p{
+    flex: 2;
+    color: white;
+}
+.buttons button{
+    flex: 1;
+    justify-content: space-around;
+    color:green;
+    margin: 2px;
+}
+.main2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: whitesmoke;
+    align-items: center;
+}
+.logo img{
+    height: 60px;
+    width: 200px;
+    flex: 1;
+}
+#home{
+    border-radius: 20px;
+}
+#omenu{
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+#omenu:hover{
+    background-color: royalblue;
+    color: whitesmoke;
+}
+.menu button{
+    transition-duration: 0.2s;
+}
+.main3 img{
+    width: 100%;
+}
+.main4 marquee{
+    background-color: royalblue;
+}
+.main5{
+    font-family: serif;
+    text-align: center;
+    background-color: whitesmoke;
+}
+#h1{
+    color:royalblue;
+    font-family: serif;
+    font-weight:bolder ;
+    display: inline-block;
+}
+#h2{
+    color: darkgreen;
+    font-family: serif;
+    font-weight:bolder;
+    display: inline-block;
+}
+#intro{
+    align-self: center;
+    color: grey;
+}
+.main5 img{
+    width: 130px;
+    height: 40px;
+}
+.one{
+    background-color: rgba(42, 56, 255, 0.932);
+}
+.blue{
+    margin: 15px;
+    align-items: center;
+    align-content: center;
+}
+.column{
+    margin: 50px;
+    color: white;
+    font-size: medium;
+    font-family: serif;
+    font-weight: bolder;
+    padding: 35px;
+    text-align: center;
+    align-items: center;
+}
+.column img{
+    height: 40px;
+    width: 40px;
+}
+#no1{
+    font-size: 35px;
+}
+#no2{
+    color: lawngreen;
+}
+.main6{
+    background-color: whitesmoke;
+    text-align: center;
+}
+#whatwe{
+    color:royalblue;
+    font-family: serif;
+    font-weight: bolder;
+    display: inline-block;
+}
+#are{
+    color: green;
+    font-family: serif;
+    font-weight: bolder;
+    display: inline-block;
+}
+.main6{
+    background-color: whitesmoke;
+}
+.onlinesadqah{
+    width: 350px;
+    height: 165px;
+    border: 10px solid white;
+    padding: 15px;
+    margin: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    font-weight: bold;
+    font-size: x-large;
+    color: rgba(42, 56, 255, 0.932);
+    font-family: serif;
+}
+.onlinesadqah img{
+    height: 60px;
+    width: 60px;
+}
+.welfare{
+    width: 350px;
+    height: 165px;
+    border: 10px solid white;
+    padding: 15px;
+    margin: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    font-weight: bold;
+    font-size: x-large;
+    color: rgba(42, 56, 255, 0.932);
+    font-family: serif;
+}
+.welfare img{
+    height: 60px;
+    width: 60px;
+}
+.medical{
+    width: 350px;
+    height: 165px;
+    border: 10px solid white;
+    padding: 15px;
+    margin: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    font-weight: bold;
+    font-size: x-large;
+    color: rgba(42, 56, 255, 0.932);
+    font-family: serif;
+}
+.medical img{
+    height: 60px;
+    width: 60px;
+}
+.Dastarkhwan{
+    width: 350px;
+    height: 165px;
+    border: 10px solid white;
+    padding: 15px;
+    margin: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    font-weight: bold;
+    font-size: x-large;
+    color: rgba(42, 56, 255, 0.932);
+    font-family: serif;
+}
+.Dastarkhwan img{
+    height: 60px;
+    width: 60px;
+}
+.ROPLANT{
+    width: 350px;
+    height: 165px;
+    border: 10px solid white;
+    padding: 15px;
+    margin: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    font-weight: bold;
+    font-size: x-large;
+    color: rgba(42, 56, 255, 0.932);
+    font-family: serif;
+}
+.ROPLANT img{
+    height: 60px;
+    width: 60px;
+}
+.education{
+    width: 350px;
+    height: 165px;
+    border: 10px solid white;
+    padding: 15px;
+    margin: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    font-weight: bold;
+    font-size: x-large;
+    color: rgba(42, 56, 255, 0.932);
+    font-family: serif;
+}
+.education img{
+    height: 60px;
+    width: 60px;
+}
+.owm{
+    display: flex;
+    margin: 3;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.two{
+    color: royalblue;
+    font-weight: bold;
+    font-family: serif;
+    background-color: white;
+    font-weight: bolder;
+}
+#mar{
+    color: rgb(80, 78, 78);
+    width: 300px;
+    height: 170px;
+}
+#col2{
+    width: 350px;
+    height: 75px;
+    margin: 30px;
+    border: 1px solid rgb(223, 223, 223);
+    background-color: whitesmoke;
+    font-weight: bolder;
+    font-size: medium;
+    color: royalblue;
+    font-family: serif;
+    padding: 25px;
+}
+.row12{
+    display: inline-block;
+}
+.row34{
+    display: inline-block;
+}
+#main8{
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    font-family: serif;
+    display: flex;
+    flex-wrap: wrap;
+    display: inline;
+    text-align: center;
+    justify-content: center;
+    font-size: larger;
+}
+#image{
+    color:royalblue;
+    display: inline-block;
+    font-weight: bold;
+    font-family: serif;
+}
+#gallery{
+    color: green;
+    display: inline-block;
+    font-weight: bold;
+    font-family: serif;
+}
+#pics img{
+    width: 220px;
+    height: 135px;
+    display: inline-flex;
+    align-items: center;
+}
+.three{
+    background-color: rgb(36, 39, 46);
+    padding: 80px;
+}
+.col5{
+    color: rgb(185, 182, 182);
+} 
+.col7{
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+#uk{
+    color: white;
+    text-shadow: 2px 2px rgb(175, 174, 174);
+    text-align: center;
+    font-family: serif;
+}
